@@ -4,3 +4,4 @@
 
 # lets load core into the name space as well
 from . import core
+from . import color
